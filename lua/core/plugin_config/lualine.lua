@@ -3,7 +3,7 @@ require('lualine').setup {
     icons_enabled = true,
     theme = 'gruvbox',
   },
-  selections = {
+  sections = {
     lualine_a = {
       {
         'filename',
