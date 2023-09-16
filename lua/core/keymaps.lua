@@ -9,6 +9,8 @@ vim.opt.laststatus = 2
 vim.opt.autowrite = true
 vim.opt.cursorline = true
 vim.opt.autoread = true
+vim.opt.smartindent = true
+vim.opt.autoindent = true
 
 -- using space for tabs and other stuff
 vim.opt.tabstop = 2
